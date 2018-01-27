@@ -4,14 +4,56 @@ body {
     font-size: 18px;
     width: 960px;
     margin-left: 120px;
+    margin-right: 120px;
 }
 
 .header {
     background-color: #ebebeb;
     text-align: center;
     width: 495px;
-    border: 30px #ebebeb;
-    padding: 30px #ebebeb;
+    border: 30px;
+    padding: 30px;
 
 }
 
+.nav {
+    text-align: center;
+    width: 495px;
+    background-color: #ebebeb;
+    border: 30px;
+    padding: 30px;
+}
+
+.section {
+    text-align: center;
+    float: left;
+    background-color: #ebebeb;
+
+}
+
+.article{
+    background-color: #777;
+}
+
+.h{
+
+}
+
+.aside {
+    width: 246px;
+    text-align: center;
+    float: right;
+    margin-right: 120px;
+    background-color: #ebebeb
+    
+
+}
+
+.footer {
+    text-align: center;
+    width: 495px;
+    position: absolute;
+    background-color: #ebebeb;
+    border: 30px;
+    padding: 30px;
+}
