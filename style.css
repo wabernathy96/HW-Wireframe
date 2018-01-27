@@ -26,6 +26,7 @@ body {
 
 .section {
     text-align: center;
+    width: 256px;
     float: left;
     background-color: #ebebeb;
 
@@ -33,26 +34,33 @@ body {
 
 .article{
     background-color: #777;
+    color: #ebebeb;
 }
 
 .h{
+    color: #777;
+    background-color: #ebebeb;
+}
 
+.p {
+    color: #777;
+    background-color: #ebebeb;
+    border: 50px;
 }
 
 .aside {
-    width: 246px;
+    width: 256px;
     text-align: center;
     float: right;
-    margin-right: 120px;
+    margin-right: 425px;
     background-color: #ebebeb
-    
-
 }
 
 .footer {
     text-align: center;
+    float: bottom;
     width: 495px;
-    position: absolute;
+    margin-top: 150px;
     background-color: #ebebeb;
     border: 30px;
     padding: 30px;
