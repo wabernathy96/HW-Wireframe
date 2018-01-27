@@ -9,6 +9,7 @@ body {
 
 .header {
     background-color: #ebebeb;
+    color: #777;
     text-align: center;
     width: 495px;
     border: 30px;
@@ -20,19 +21,24 @@ body {
     text-align: center;
     width: 495px;
     background-color: #ebebeb;
+    color: #777;
     border: 30px;
     padding: 30px;
 }
 
 .section {
     text-align: center;
+    padding: 30px;
     width: 256px;
     float: left;
     background-color: #ebebeb;
+    color: #777;
+    margin-bottom: 100px;
 
 }
 
 .article{
+    padding: 25px;
     background-color: #777;
     color: #ebebeb;
 }
@@ -45,22 +51,27 @@ body {
 .p {
     color: #777;
     background-color: #ebebeb;
-    border: 50px;
+    border: 100px;
+    padding: 10px;
 }
 
 .aside {
     width: 256px;
-    text-align: center;
     float: right;
-    margin-right: 425px;
+    padding: 30px;
+    padding-bottom: 235px;
+    text-align: center;
+    margin-right: 300px;
     background-color: #ebebeb
 }
 
 .footer {
     text-align: center;
-    float: bottom;
+    position: fixed;
+    bottom: 100px;
+    border: 25px green;
     width: 495px;
-    margin-top: 150px;
+    margin-top: 200px;
     background-color: #ebebeb;
     border: 30px;
     padding: 30px;
