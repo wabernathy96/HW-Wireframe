@@ -1,2 +1,2 @@
 # HW-Wireframe
-Homework 01_1 - Wireframe
+A basic wireframe for practicing HTML and CSS
